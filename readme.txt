@@ -1,0 +1,3 @@
+SpiderCard文件夹为源代码，可以用Qt Creator或者VS Code打开，游戏用c++以及qt6实现
+游戏已经打包过，解压SpiderGame_boxed.zip，直接运行SpiderGame_boxed.exe
+Readme.md为用户说明文件，可以用支持markdown语法的编辑器打开，例如Typora
